@@ -12,14 +12,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1YhrsHyxmIq9Z1t2lbdA2n6BH0h" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,6 +51,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.AdminTest.createActor">
+    <configuration name="ActorTest.bookTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Time Booking Business Logic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ActorTest" />
+      <option name="METHOD_NAME" value="bookTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.createActor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Time Booking Business Logic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdminTest" />
+      <option name="METHOD_NAME" value="createActor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminTest.createActor" />
+        <item itemvalue="JUnit.ActorTest.bookTime" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583405872515</updated>
       <workItem from="1583405877933" duration="2489000" />
-      <workItem from="1583408635748" duration="370000" />
+      <workItem from="1583408635748" duration="407000" />
+      <workItem from="1583415659541" duration="4182000" />
     </task>
     <servers />
   </component>
