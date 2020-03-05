@@ -1,3 +1,4 @@
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 public class Actor {
@@ -87,8 +88,11 @@ public class Actor {
     public void login()
     {}
 
-    public void bookTime()
-    {}
+    public Booking bookTime(Project project,Task task,BookTime start,BookTime finish,String description)
+    {
+        Booking thisBooking = new Booking(project,task,start,finish, LocalDateTime.now(),this,description);
+        return thisBooking;
+    }
 
     public void recoverAccount()
     {}

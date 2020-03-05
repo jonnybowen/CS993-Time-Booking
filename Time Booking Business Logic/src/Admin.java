@@ -11,8 +11,7 @@ public class Admin extends Actor {
 
     public Project createProject()
     {
-        Project myProject = new Project();
-        return myProject;
+        return new Project();
     }
 
     public void deleteProject(Project myProject)
@@ -20,8 +19,7 @@ public class Admin extends Actor {
 
     public Task createTask()
     {
-        Task myTask = new Task();
-        return myTask;
+        return new Task();
     }
 
     public void assignUser(User myUser,Project myProject,Task myTask)
